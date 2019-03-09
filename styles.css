@@ -137,7 +137,7 @@ hr {
   background-color: inherit;
   width: 45%;
   align-self: center;
-  font-family: 'Bitter', serif;
+  font-family: 'B612', sans-serif;
   font-size: 1rem;
 }
 
@@ -285,6 +285,9 @@ hr {
 .touch {
   text-align: center;
   color: black;
+  font-size: 1.75rem;
+  letter-spacing: 5px;
+  padding-bottom: 10px;
 }
 
 .actively {
